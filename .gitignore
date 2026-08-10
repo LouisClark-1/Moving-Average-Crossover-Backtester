@@ -1,0 +1,5 @@
+Backtester\ keynote.key
+__pycache__/
+.projectvenv/
+.pytest_cache/
+.DS_Store

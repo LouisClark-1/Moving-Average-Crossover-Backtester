@@ -1,0 +1,6 @@
+numpy
+yfinance
+argparse
+sys
+seaborn
+matplotlib

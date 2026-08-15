@@ -1,5 +1,5 @@
 # Mean Reversion Strategy Backtester
-#### Video demo can be found [here](www.youtube.com)
+#### Video demo can be found [here](https://youtu.be/CpnCLQCHeDY)
 ### Description:
 This program backtests two strategies on the chosen stock and compares them to the strategy of simply buying and holding the stock for the full duration. It tests over the past year at daily intervals, buying at the close price and holding for the next day before reconsidering. It starts with 1000 of the local curency.
 #### Usage:
